@@ -1,5 +1,4 @@
 <?php
-
 	/************************************************ 
 	 *                NanoDB v.9.01
 	 *     Ultra Lightweight Text File Data Base
